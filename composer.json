@@ -1,0 +1,13 @@
+{
+    "name": "scienceguard/php-vocab",
+    "authors": [
+        {
+            "name": "Ilman Maulana",
+            "email": "ilman.maulana@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "stichoza/google-translate-php": "^3.2"
+    }
+}
