@@ -1,0 +1,15 @@
+{
+    "name": "ilman/php-vocab",
+    "authors": [
+        {
+            "name": "Ilman Maulana",
+            "email": "ilman.maulana@gmail.com"
+        }
+    ],
+    "require": {
+        "stichoza/google-translate-php": "^3.2",
+        "willskates/dictionaryapi": "^1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : true
+}
